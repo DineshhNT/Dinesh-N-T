@@ -15,9 +15,9 @@ I'm Dinesh N T from Coimbatore, a passionate graduate in B.Tech Artificial Intel
 
 
 
-💡 Interface Alchemy - Craft dynamic and engaging user interfaces using HTML, CSS, JavaScript, and React. My focus is on delivering seamless and accessible web experiences that balance beauty with performance.
+   💡 Interface Alchemy - Craft dynamic and engaging user interfaces using HTML, CSS, JavaScript, and React. My focus is on delivering seamless and accessible web experiences that balance beauty with performance.
 
-|                                                             HTML                                                            |                                                            CSS3                                                           |                                          Bootstrap                                         |                                                Tailwind                                               |                                                               JavaScript                                                              |                                                           ReactJS                                        ViteJS                   |                                             Firebase                                            |
+|                                                             HTML                                                            |                                                            CSS3                                                           |                                          Bootstrap                                         |                                                Tailwind                                               |                                                               JavaScript                                                              |                                                           ReactJS                                                           |                                             Firebase                                            |
 | :-------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="70" height="70"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="70" height="70"> | <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="70" height="70"> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="70" height="70"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70" height="70"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="70" height="70"> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="70" height="70"> |
 
@@ -25,7 +25,7 @@ I'm Dinesh N T from Coimbatore, a passionate graduate in B.Tech Artificial Intel
 
 
 
-⚙️ Logic Forge - Engineer efficient and scalable server-side systems using MongoDB, ExpressJS, NodeJS, Supabase, and MySQL. My solutions are built to handle complexity with reliability and performance in mind.
+  ⚙️ Logic Forge - Engineer efficient and scalable server-side systems using MongoDB, ExpressJS, NodeJS, Supabase, and MySQL. My solutions are built to handle complexity with reliability and performance in mind.
 
 |                                                             MongoDB                                                             |                                                            ExpressJS                                                            |                                                             NodeJS                                                            |                                             Supabase                                            |                                                            MySQL                                                            |
 | :-----------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
@@ -35,7 +35,7 @@ I'm Dinesh N T from Coimbatore, a passionate graduate in B.Tech Artificial Intel
 
 
 
-🚀 Cognitive Core - Develop intelligent AI/ML solutions using TensorFlow, Keras, Scikit-learn, and HuggingFace tools. My work involves data-driven problem-solving through model building, training, and deployment.
+  🚀 Cognitive Core - Develop intelligent AI/ML solutions using TensorFlow, Keras, Scikit-learn, and HuggingFace tools. My work involves data-driven problem-solving through model building, training, and deployment.
 
 |                                                             Pandas                                                            |                                                            Numpy                                                            |                                                               TensorFlow                                                              |                                                            Keras                                                            |                                                    Scikit-learn                                                    |                                     Matplotlib                                     |                                                      HuggingFace                                                     |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
@@ -80,11 +80,11 @@ Python NLP model to classify and visualize user emotions from social data.
 
 ### 💼 LinkedIn
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DineshNT-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dineshnt/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DineshNT-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dinesh-nt-20b0b6256/)
 
 ### 📷 Instagram
 
-[![Instagram](https://img.shields.io/badge/Instagram-_dinesh_04_-E1306C?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/_dinesh_04_/)
+[![Instagram](https://img.shields.io/badge/Instagram-_dinesh_04_-E1306C?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/d_i_n_e_s_h_h_/)
 
 ### 🧑‍💻 GitHub
 
@@ -92,4 +92,4 @@ Python NLP model to classify and visualize user emotions from social data.
 
 ### 🌍 MySync Portfolio
 
-[![Portfolio](https://img.shields.io/badge/MySync%20Portfolio-Click%20Here-0096C7?style=for-the-badge\&logo=vite\&logoColor=white)](https://dinesh-portfolio-sync.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/MySync%20Portfolio-Click%20Here-0096C7?style=for-the-badge\&logo=vite\&logoColor=white)](https://dineshhnt.github.io/MySync/)
