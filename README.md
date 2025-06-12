@@ -1,7 +1,5 @@
 # 👋 Hey there! I'm Dinesh N T 🌟  
-Welcome to my GitHub — where innovation meets execution!
-
-🚀 Aspiring Machine Learning Engineer | Passionate Python Developer | AI & Data Science Enthusiast  
+**Aspiring Machine Learning Engineer | Passionate Python Developer | AI & Data Science Enthusiast**  
 📍 From Coimbatore | 🎓 Kathir College of Engineering  
 
 ---
@@ -10,84 +8,86 @@ Welcome to my GitHub — where innovation meets execution!
 
 ### 🎨 Frontend Development
 
-<p>
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,flask,tensorflow,keras,numpy,pandas,matplotlib,opencv,mysql,github,git)](https://skillicons.dev)
-
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/><br>HTML</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/><br>CSS3</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/><br>JavaScript</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60"/><br>TailwindCSS</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/><br>React</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="60"/><br>Vite</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/><br>TypeScript</td>
+  </tr>
+</table>
 
 ---
 
 ### 🔧 Backend & Database
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/><br>Node.js</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60"/><br>Express</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60"/><br>Flask</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60"/><br>Firebase</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/><br>MongoDB</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/><br>MySQL</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="60"/><br>Supabase</td>
+  </tr>
+</table>
 
 ---
 
-### 🤖 AI, ML & DL Expertise
+### 🤖 AI, ML & DL
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
----
-
-### 🌐 Web & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br>Python</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/><br>Pandas</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/><br>NumPy</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60"/><br>PyTorch</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60"/><br>Scikit-Learn</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/><br>Matplotlib</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60"/><br>TensorFlow</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/llvm/llvm-original.svg" width="60"/><br>LLMs</td>
+  </tr>
+</table>
 
 ---
 
-## 🧪 Featured Projects
+### 🛠️ Other Tools & Platforms
 
-- 🎯 **Sentiment Analysis** – Social media review sentiment visualizer  
-- 👁️‍🗨️ **Glaucoma Detection** – Eye disease detection using CNN  
-- 🧠 **Personalized AI Med Assist** – Chatbot + real-time health analytics  
-- 🌈 **SAR Image Colorization** – Color mapping of radar images using DL  
-- 🔄 **MySync + Portal** – Real-time synced portfolio manager  
-
----
-
-## 🏆 Leadership & Impact
-
-- 🤝 Supported peers in collaborative learning & team success  
-- 📈 Organized content dynamically using Supabase & React  
-- ✨ Hosted and deployed real-time systems across multiple platforms  
+<table>
+  <tr>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/><br>GitHub</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="60"/><br>Canva</td>
+  </tr>
+</table>
 
 ---
 
-## 📬 Let's Connect
+## 🚀 Featured Projects
 
-📫 **Email:** dineshkumart2003@gmail.com  
-🔗 **LinkedIn:** [Dinesh N T](https://www.linkedin.com/in/dinesh-n-t)  
-🌐 **Portfolio:** [MySync](https://dinesh-nt-portfolio.vercel.app)  
-💼 **GitHub:** [DineshNT](https://github.com/DineshNT)
+- **[Sentiment Analysis Visualizer](https://github.com/DineshNT/sentiment-analysis)** – NLP-based analysis and visualization tool for sentiment insights.
+- **[Glaucoma Detection System](https://github.com/DineshNT/glaucoma-detector)** – CNN-powered model for classifying glaucoma in retinal images.
+- **[AI Med Assist Chatbot](https://github.com/DineshNT/ai-med-assist)** – Health assistant chatbot with real-time data analytics.
+- **[SAR Image Colorizer](https://github.com/DineshNT/sar-image-colorization)** – Deep learning project to colorize SAR images.
+- **[MySync Portfolio Manager](https://github.com/DineshNT/mysync-portfolio)** – Real-time sync portfolio built with React & Supabase.
 
 ---
 
-> 🔥 Let’s build something impactful — together!
+## 📫 Get In Touch
+
+- ✉️ **Email**: dineshsince2004@gmail.com  
+- 🔗 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-id)  
+- 📸 **Instagram**: [@your_instagram_id](https://www.instagram.com/your_instagram_id)  
+
+---
+
+## 🌐 Portfolio
+
+Check out my live portfolio: **[MySync](https://your-portfolio-link.vercel.app)**
+
+---
+
+⚡ Let's collaborate on meaningful tech and AI-driven projects. Reach out—I'd love to build with you!  
