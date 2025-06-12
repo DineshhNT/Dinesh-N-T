@@ -2,15 +2,20 @@
 
 ✨ Embark on a journey through my world of code, where innovation meets precision to craft meaningful solutions.
 
+
 ## About Me!
 
 I'm Dinesh N T from Coimbatore, a passionate graduate in B.Tech Artificial Intelligence & Data Science. I’m on a journey to blend creativity with code, pushing the boundaries of AI, full-stack web development, and data-driven insights. With a strong foundation in modern technologies, I aim to build meaningful solutions that solve real-world problems and spark innovation.
 
 ---
 
-##  Frontend Development - *Turning creativity into interactive experiences*
 
-💡 craft dynamic and engaging user interfaces using HTML, CSS, JavaScript, and React. My focus is on delivering seamless and accessible web experiences that balance beauty with performance.
+##
+🔍 Curious About What I Do? Let’s Uncover My Tech Stack!
+
+
+
+💡  Interface Alchemy - Craft dynamic and engaging user interfaces using HTML, CSS, JavaScript, and React. My focus is on delivering seamless and accessible web experiences that balance beauty with performance.
 
 |                                                             HTML                                                            |                                                            CSS3                                                           |                                          Bootstrap                                         |                                                Tailwind                                               |                                                               JavaScript                                                              |                                                           ReactJS                                                           |                                             Firebase                                            |
 | :-------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
@@ -18,9 +23,9 @@ I'm Dinesh N T from Coimbatore, a passionate graduate in B.Tech Artificial Intel
 
 ---
 
-##  Backend Engineering - *Powering innovation from behind the scenes.*
 
-⚙️ Engineer efficient and scalable server-side systems using MongoDB, ExpressJS, NodeJS, Supabase, and MySQL. My solutions are built to handle complexity with reliability and performance in mind.
+
+⚙️ Logic Forge - Engineer efficient and scalable server-side systems using MongoDB, ExpressJS, NodeJS, Supabase, and MySQL. My solutions are built to handle complexity with reliability and performance in mind.
 
 |                                                             MongoDB                                                             |                                                            ExpressJS                                                            |                                                             NodeJS                                                            |                                             Supabase                                            |                                                            MySQL                                                            |
 | :-----------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
@@ -28,9 +33,9 @@ I'm Dinesh N T from Coimbatore, a passionate graduate in B.Tech Artificial Intel
 
 ---
 
-##  AI/ML Innovations - *Making machines think, learn, and act*
 
-🚀 Develop intelligent AI/ML solutions using TensorFlow, Keras, Scikit-learn, and HuggingFace tools. My work involves data-driven problem-solving through model building, training, and deployment.
+
+🚀 Cognitive Core - Develop intelligent AI/ML solutions using TensorFlow, Keras, Scikit-learn, and HuggingFace tools. My work involves data-driven problem-solving through model building, training, and deployment.
 
 |                                                             Pandas                                                            |                                                            Numpy                                                            |                                                               TensorFlow                                                              |                                                            Keras                                                            |                                                    Scikit-learn                                                    |                                     Matplotlib                                     |                                                      HuggingFace                                                     |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
