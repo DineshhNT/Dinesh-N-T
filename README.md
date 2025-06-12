@@ -1,10 +1,12 @@
+
 # 👋 Hi, I'm Dinesh N T
 
-✨ Embark on a journey through my world of code, where innovation meets precision to craft meaningful solutions.
 
-## About Me!
+  ✨ Embark on a journey through my world of code, where innovation meets precision to craft meaningful solutions.
 
-I'm Dinesh N T from Coimbatore, a passionate graduate in B.Tech Artificial Intelligence & Data Science. I’m on a journey to blend creativity with code, pushing the boundaries of AI, full-stack web development, and data-driven insights. With a strong foundation in modern technologies, I aim to build meaningful solutions that solve real-world problems and spark innovation.
+## 🫧 About Me!
+
+  I'm Dinesh N T,a passionate graduate in B.Tech Artificial Intelligence & Data Science. I’m on a journey to blend creativity with code, pushing the boundaries of AI, full-stack web development, and data-driven insights. With a strong foundation in modern technologies, I aim to build meaningful solutions that solve real-world problems and spark innovation.
 
 ---
 
@@ -28,9 +30,9 @@ I'm Dinesh N T from Coimbatore, a passionate graduate in B.Tech Artificial Intel
 
   🚀 **Cognitive Core** - Develop intelligent AI/ML solutions using TensorFlow, Keras, Scikit-learn, and LLMs. My work involves data-driven problem-solving through model building, training, and deployment.
 
-| Pandas | Numpy | TensorFlow | Keras | Scikit-learn | Matplotlib | Python | LLMs |
-| :-----------------------------------------------------------: | :---------------------------------------------------------: | :-------------------------------------------------------------------: | :---------------------------------------------------------: | :-----------------------------------------------------------------: | :---------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="70" height="70"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="70" height="70"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="70" height="70"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="70" height="70"> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70" height="70"> | <img src="https://matplotlib.org/_static/images/logo2.svg" width="70" height="70"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" height="70"> | <img src="https://img.icons8.com/color/70/000000/artificial-intelligence.png" width="70" height="70"> |
+| Python | Pandas | Numpy | TensorFlow | Keras | Scikit-learn | Matplotlib | LLMs |
+| :-----------------------------------------------------------------: | :-----------------------------------------------------------: | :---------------------------------------------------------: | :-------------------------------------------------------------------: | :---------------------------------------------------------: | :-----------------------------------------------------------------: | :---------------------------------------------------------: | :-----------------------------------------------------------------: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" height="70"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="70" height="70"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="70" height="70"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="70" height="70"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="70" height="70"> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70" height="70"> | <img src="https://matplotlib.org/_static/images/logo2.svg" width="70" height="70"> | <img src="https://img.icons8.com/color/70/000000/artificial-intelligence.png" width="70" height="70"> |
 
 ---
 
@@ -46,7 +48,7 @@ Developed a MERN-based healthcare platform integrating a chatbot and symptom che
 Cloned a Gemini-like AI chatbot using React, Vite, and TypeScript with live API-based responses.The project delivers a responsive, intelligent chat interface simulating conversational AI.
 🔗 [GitHub Repo](https://github.com/DineshhNT/GeminiGPT)
 
-### 📦 MySync Portfolio 
+### 📦 MySync Portfolio 
 
 Built a modern, responsive personal portfolio using React, Vite, TypeScript, and Tailwind CSS.Designed for performance and scalability, it's used to showcase skills, projects, and live updates.
 🔗 [GitHub Repo](https://github.com/DineshhNT/MySync)
@@ -56,7 +58,7 @@ Built a modern, responsive personal portfolio using React, Vite, TypeScript, and
 Constructed a CNN model in Python with TensorFlow and Scikit-learn to detect glaucoma from eye images.The model classifies retina scans with high accuracy, supporting early disease diagnosis.
 🔗 [GitHub Repo](https://github.com/DineshhNT/Glaucoma-Detection-CNN)
 
-### 💬 Sentiment Analysis 
+### 💬 Sentiment Analysis 
 
 Designed a Python NLP pipeline to analyze product reviews from Flipkart and Amazon using Scikit-learn.Generated word clouds and charts to visualize sentiments and uncover customer insights.
 🔗 [GitHub Repo](https://github.com/DineshhNT/sentiment-analysis-python)
