@@ -3,6 +3,7 @@
 ✨ Embark on a journey through my world of code, where innovation meets precision to craft meaningful solutions.
 
 
+
 ## About Me!
 
 I'm Dinesh N T from Coimbatore, a passionate graduate in B.Tech Artificial Intelligence & Data Science. I’m on a journey to blend creativity with code, pushing the boundaries of AI, full-stack web development, and data-driven insights. With a strong foundation in modern technologies, I aim to build meaningful solutions that solve real-world problems and spark innovation.
@@ -10,14 +11,13 @@ I'm Dinesh N T from Coimbatore, a passionate graduate in B.Tech Artificial Intel
 ---
 
 
-##
-🔍 Curious About What I Do? Let’s Uncover My Tech Stack!
+## 🔍 Curious About What I Do? Let’s Uncover My Tech Stack!
 
 
 
-💡  Interface Alchemy - Craft dynamic and engaging user interfaces using HTML, CSS, JavaScript, and React. My focus is on delivering seamless and accessible web experiences that balance beauty with performance.
+💡 Interface Alchemy - Craft dynamic and engaging user interfaces using HTML, CSS, JavaScript, and React. My focus is on delivering seamless and accessible web experiences that balance beauty with performance.
 
-|                                                             HTML                                                            |                                                            CSS3                                                           |                                          Bootstrap                                         |                                                Tailwind                                               |                                                               JavaScript                                                              |                                                           ReactJS                                                           |                                             Firebase                                            |
+|                                                             HTML                                                            |                                                            CSS3                                                           |                                          Bootstrap                                         |                                                Tailwind                                               |                                                               JavaScript                                                              |                                                           ReactJS                                        ViteJS                   |                                             Firebase                                            |
 | :-------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="70" height="70"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="70" height="70"> | <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="70" height="70"> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="70" height="70"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70" height="70"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="70" height="70"> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="70" height="70"> |
 
