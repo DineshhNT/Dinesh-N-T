@@ -1,91 +1,78 @@
-<h1 align="center">Hi 👋, I'm Dinesh N T</h1>
-<h3 align="center">AI/ML Engineer • Full Stack Developer • Python Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&center=true&vCenter=true&width=800&lines=Innovator+%7C+Problem+Solver+%7C+Tech+Explorer;Always+Building+Something+Meaningful" alt="Typing SVG" />
-</p>
-
 ---
 
-### 👨‍💻 About Me
+# 👋 Hi, I'm Dinesh N T
 
-I'm **Dinesh N T** from **Coimbatore**, a passionate graduate in **B.Tech Artificial Intelligence & Data Science**.  
-I'm on a journey of blending creativity with code. My interests lie in **AI/ML**, **Full Stack Web Development**, and **Python Programming**.  
+```diff
++ AI/ML Engineer | Full Stack Developer | Python Programmer | Innovator
+```
+
+I'm Dinesh N T from Coimbatore, a passionate graduate in B.Tech Artificial Intelligence & Data Science.
+I'm on a journey of blending creativity with code. My interests lie in AI/ML, Full Stack Web Development, and Python Programming.
 I love exploring cutting-edge tech and building innovative solutions that leave a real impact.
 
 ---
 
 ## 🛠️ Wanna Know My Professional Skills? Let’s Dive In!
 
-### ⚡ Frontend Fusion: Where Ideas Meet Aesthetics  
-With the magic of HTML, CSS, JavaScript, React, and TailwindCSS, I bring interfaces to life — elegant, interactive, and lightning-fast.
+### ⚡ Dazzling Designs: Armed with HTML, CSS, JavaScript, and React, I orchestrate visually captivating and responsive Full stack designs that enchant and engage users.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,typescript,canva" height="65" style="border-radius:12px; padding:8px;" />
-</p>
-
----
-
-### 💻 Backend Beast Mode: Logic that Powers the Magic  
-From scalable APIs to real-time data systems, I build the backend with Node.js, Express, Flask, and databases like MongoDB, MySQL, Firebase, and Supabase.
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,firebase,supabase" height="65" style="border-radius:12px; padding:8px;" />
-</p>
+|                                                             HTML                                                            |                                                            CSS3                                                           |                                          Bootstrap                                         |                                                Tailwind                                               |                                                               JavaScript                                                              |                                                           ReactJS                                                           |                                             Firebase                                            |                                                    Canva                                                   |
+| :-------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"> | <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="50" height="50"> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="50" height="50"> |
 
 ---
 
-### 🤖 AI/ML Wizardry: Turning Data into Destiny  
-Passionate about AI & Generative AI. I transform ideas into intelligent systems with TensorFlow, PyTorch, and Scikit-learn, building robust ML models and meaningful insights.
+### 💻 Backend Brilliance: Specializing in backend development with MongoDB, ExpressJS, NodeJS, Flask, Supabase, and MySQL, I create scalable, efficient, and reliable backend systems.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,pytorch,scikit-learn,tensorflow,matplotlib" height="65" style="border-radius:12px; padding:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" height="65" title="LLMs" style="padding:8px;" />
-</p>
+|                                                             MongoDB                                                             |                                                            ExpressJS                                                            |                                                             NodeJS                                                            |                                             Firebase                                            |                                             Supabase                                            |                                                 Flask                                                 |                                                            MySQL                                                            |
+| :-----------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50"> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50"> | <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="50" height="50"> | <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="50" height="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50"> |
+
+---
+
+### 🧠 Majestic Intelligence: Specializing in AI and Generative AI, I craft complex models that are captivating and inspiring.
+
+|                                                             Pandas                                                            |                                                            Numpy                                                            |                                                               Tensorflow                                                              |                                                            Keras                                                            |                                                    Scikit-learn                                                    |                                     Matplotlib                                     |                                                         LLMs                                                         |
+| :---------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="50" height="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"> | <img src="https://matplotlib.org/_static/images/logo2.svg" width="50" height="50"> | <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="50" height="50"> |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎯 Glaucoma Disease Detection  
-Deep learning CNN for classifying glaucoma vs healthy retina images.  
-🔗 [GitHub Repository](https://github.com/DineshhNT/Glaucoma-Detection-CNN)
+### 🧬 Personalized AI Med Assist
 
-### 💬 Sentiment Analyzer  
-Python NLP model for analyzing and visualizing sentiments from social reviews.  
-🔗 [GitHub Repository](https://github.com/DineshhNT/sentiment-analysis-python)
+An AI-powered medical bot with real-time health tracking and intelligent suggestions.
+[🔗 GitHub Repo](https://github.com/AI-MED-ASSIST/HealTron)
 
-### 🧬 Personalized AI Med Assist  
-An AI-powered healthcare assistant with real-time monitoring & ML predictions.  
-🔗 [GitHub Repository](https://github.com/AI-MED-ASSIST/HealTron)
+### 🤖 GeminiGPT
 
-### 💨 SAR Image Colorization  
-Colorizing grayscale SAR images using deep learning & GANs.  
-🔗 [GitHub Repository](https://github.com/DineshhNT/SAR-Colorization)
+A powerful LLM-integrated AI system built to simulate multi-modal AI interaction.
+[🔗 GitHub Repo](https://github.com/DineshhNT/GeminiGPT)
 
-### ⚙️ MySync Portfolio Manager  
-Portal for managing dynamic portfolio data with Supabase & React.  
-🔗 [GitHub Repository](https://github.com/DineshhNT/portal-sync-portfolio)
+### 📦 MySync Portfolio Manager
+
+A dynamic portfolio data manager with Supabase + React for real-time updates.
+[🔗 GitHub Repo](https://github.com/DineshhNT/portal-sync-portfolio)
+
+### 👁️ Glaucoma Disease Detection
+
+CNN-based deep learning model to detect glaucoma in retinal images.
+[🔗 GitHub Repo](https://github.com/DineshhNT/Glaucoma-Detection-CNN)
+
+### 💬 Sentiment Analysis
+
+Python NLP model to classify and visualize user emotions from social data.
+[🔗 GitHub Repo](https://github.com/DineshhNT/sentiment-analysis-python)
 
 ---
 
-## 📢 Let's Connect
+## 🌐 Connect With Me
 
-<p align="left">
-  <a href="mailto:dineshsince2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Dinesh-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/dinesh-nt">
-    <img src="https://img.shields.io/badge/LinkedIn-Dinesh%20N%20T-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/dinesh_nt.04/">
-    <img src="https://img.shields.io/badge/Instagram-@dinesh_nt.04-purple?style=for-the-badge&logo=instagram" />
-  </a>
-  <a href="https://github.com/DineshhNT">
-    <img src="https://img.shields.io/badge/GitHub-DineshhNT-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-dineshsince2004@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:dineshsince2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DineshNT-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dineshnt/)
+[![Instagram](https://img.shields.io/badge/Instagram-_dinesh_04_-E1306C?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/_dinesh_04_/)
+[![GitHub](https://img.shields.io/badge/GitHub-DineshhNT-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/DineshhNT)
+[![Portfolio](https://img.shields.io/badge/MySync%20Portfolio-Click%20Here-0096C7?style=for-the-badge\&logo=vite\&logoColor=white)](https://dinesh-portfolio-sync.vercel.app/)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DineshhNT&label=Profile%20views&color=blue&style=flat" alt="profile views" />
-</p>
+---
