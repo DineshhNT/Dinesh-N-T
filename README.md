@@ -84,7 +84,7 @@ Python NLP model to classify and visualize user emotions from social data.
 
 ### 📷 Instagram
 
-[![Instagram](https://img.shields.io/badge/Instagram-_dinesh_N T_-E1306C?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/d_i_n_e_s_h_h_/)
+[![Instagram](https://img.shields.io/badge/Instagram-_dinesh_NT_-E1306C?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/d_i_n_e_s_h_h_/)
 
 ### 🧑‍💻 GitHub
 
