@@ -4,11 +4,9 @@ I'm Dinesh N T from Coimbatore, a passionate graduate in B.Tech Artificial Intel
 
 ---
 
-## 🔷 Frontend Development
+##  Frontend Development - *Turning creativity into interactive experiences*
 
-💡 *Turning creativity into interactive experiences.*
-
-I craft dynamic and engaging user interfaces using HTML, CSS, JavaScript, and React. My focus is on delivering seamless and accessible web experiences that balance beauty with performance.
+💡 craft dynamic and engaging user interfaces using HTML, CSS, JavaScript, and React. My focus is on delivering seamless and accessible web experiences that balance beauty with performance.
 
 |                                                             HTML                                                            |                                                            CSS3                                                           |                                          Bootstrap                                         |                                                Tailwind                                               |                                                               JavaScript                                                              |                                                           ReactJS                                                           |                                             Firebase                                            |
 | :-------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
@@ -16,11 +14,9 @@ I craft dynamic and engaging user interfaces using HTML, CSS, JavaScript, and Re
 
 ---
 
-## 🛠️ Backend Engineering
+## 🛠️ Backend Engineering - *Powering innovation from behind the scenes.*
 
-⚙️ *Powering innovation from behind the scenes.*
-
-I engineer efficient and scalable server-side systems using MongoDB, ExpressJS, NodeJS, Supabase, and MySQL. My solutions are built to handle complexity with reliability and performance in mind.
+⚙️ Engineer efficient and scalable server-side systems using MongoDB, ExpressJS, NodeJS, Supabase, and MySQL. My solutions are built to handle complexity with reliability and performance in mind.
 
 |                                                             MongoDB                                                             |                                                            ExpressJS                                                            |                                                             NodeJS                                                            |                                             Supabase                                            |                                                            MySQL                                                            |
 | :-----------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
@@ -28,11 +24,9 @@ I engineer efficient and scalable server-side systems using MongoDB, ExpressJS, 
 
 ---
 
-## 🧠 AI/ML Innovations
+## 🧠 AI/ML Innovations - *Making machines think, learn, and act*
 
-🚀 *Making machines think, learn, and act.*
-
-I develop intelligent AI/ML solutions using TensorFlow, Keras, Scikit-learn, and HuggingFace tools. My work involves data-driven problem-solving through model building, training, and deployment.
+🚀 Develop intelligent AI/ML solutions using TensorFlow, Keras, Scikit-learn, and HuggingFace tools. My work involves data-driven problem-solving through model building, training, and deployment.
 
 |                                                             Pandas                                                            |                                                            Numpy                                                            |                                                               TensorFlow                                                              |                                                            Keras                                                            |                                                    Scikit-learn                                                    |                                     Matplotlib                                     |                                                      HuggingFace                                                     |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
@@ -41,8 +35,6 @@ I develop intelligent AI/ML solutions using TensorFlow, Keras, Scikit-learn, and
 ---
 
 ## 🌟 How Do I Contribute?
-
-📁 *Showcasing real-world impact through code.*
 
 ### 🧬 Personalized AI Med Assist
 
@@ -56,8 +48,8 @@ A powerful LLM-integrated AI system built to simulate multi-modal AI interaction
 
 ### 📦 MySync Portfolio Manager
 
-A dynamic portfolio data manager with Supabase + React for real-time updates.
-🔗 [GitHub Repo](https://github.com/DineshhNT/portal-sync-portfolio)
+A dynamic portfolio  with Supabase + React for real-time updates.
+🔗 [GitHub Repo](https://github.com/DineshhNT/MySync)
 
 ### 👁️ Glaucoma Disease Detection
 
