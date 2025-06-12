@@ -47,27 +47,27 @@ I'm Dinesh N T from Coimbatore, a passionate graduate in B.Tech Artificial Intel
 
 ### 🧬 Personalized AI Med Assist
 
-An AI-powered medical bot with real-time health tracking and intelligent suggestions.
+Developed a MERN-based healthcare platform integrating a chatbot and symptom checker using AI models.Achieved over 75% and above accuracy in predictions using Python and Flask-based ML pipelines.
 🔗 [GitHub Repo](https://github.com/AI-MED-ASSIST/HealTron)
 
 ### 🤖 GeminiGPT
 
-A powerful LLM-integrated AI system built to simulate multi-modal AI interaction.
+Cloned a Gemini-like AI chatbot using React, Vite, and TypeScript with live API-based responses.The project delivers a responsive, intelligent chat interface simulating conversational AI.
 🔗 [GitHub Repo](https://github.com/DineshhNT/GeminiGPT)
 
-### 📦 MySync Portfolio Manager
+### 📦 MySync Portfolio 
 
-A dynamic portfolio  with Supabase + React for real-time updates.
+Built a modern, responsive personal portfolio using React, Vite, TypeScript, and Tailwind CSS.Designed for performance and scalability, it's used to showcase skills, projects, and live updates.
 🔗 [GitHub Repo](https://github.com/DineshhNT/MySync)
 
-### 👁️ Glaucoma Disease Detection
+### 👁️ Glaucoma Disease Detection using CNN
 
-CNN-based deep learning model to detect glaucoma in retinal images.
+Constructed a CNN model in Python with TensorFlow and Scikit-learn to detect glaucoma from eye images.The model classifies retina scans with high accuracy, supporting early disease diagnosis.
 🔗 [GitHub Repo](https://github.com/DineshhNT/Glaucoma-Detection-CNN)
 
-### 💬 Sentiment Analysis
+### 💬 Sentiment Analysis 
 
-Python NLP model to classify and visualize user emotions from social data.
+Designed a Python NLP pipeline to analyze product reviews from Flipkart and Amazon using Scikit-learn.Generated word clouds and charts to visualize sentiments and uncover customer insights.
 🔗 [GitHub Repo](https://github.com/DineshhNT/sentiment-analysis-python)
 
 ---
