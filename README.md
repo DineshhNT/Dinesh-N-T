@@ -41,7 +41,7 @@
 ### 🧬 Personalized AI Med Assist
 
 Developed a MERN-based healthcare platform integrating a chatbot and symptom checker using AI models.Achieved over 75% and above accuracy in predictions using Python and Flask-based ML pipelines.
-🔗 [GitHub Repo](https://github.com/AI-MED-ASSIST/HealTron)
+🔗 [GitHub Repo](https://github.com/DineshhNT/HealTron)
 
 ### 🤖 GeminiGPT
 
@@ -56,12 +56,12 @@ Built a modern, responsive personal portfolio using React, Vite, TypeScript, and
 ### 👁️ Glaucoma Disease Detection using CNN
 
 Constructed a CNN model in Python with TensorFlow and Scikit-learn to detect glaucoma from eye images.The model classifies retina scans with high accuracy, supporting early disease diagnosis.
-🔗 [GitHub Repo](https://github.com/DineshhNT/Glaucoma-Detection-CNN)
+🔗 [GitHub Repo](https://github.com/DineshhNT/Glaucoma-Disease-Detection-using-CNN)
 
 ### 💬 Sentiment Analysis 
 
 Designed a Python NLP pipeline to analyze product reviews from Flipkart and Amazon using Scikit-learn.Generated word clouds and charts to visualize sentiments and uncover customer insights.
-🔗 [GitHub Repo](https://github.com/DineshhNT/sentiment-analysis-python)
+🔗 [GitHub Repo](https://github.com/DineshhNT/SENTIMENTAL-ANALYSIS-USING-PYTHON)
 
 ---
 
